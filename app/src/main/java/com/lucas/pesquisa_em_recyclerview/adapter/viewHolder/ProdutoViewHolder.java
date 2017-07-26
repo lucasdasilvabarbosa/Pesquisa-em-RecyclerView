@@ -21,7 +21,7 @@ public class ProdutoViewHolder extends SortedListAdapter.ViewHolder<Produto>{
         super(binding.getRoot());
         binding.setListener(listener);
 
-        this.mBinding = binding;
+        mBinding = binding;
     }
 
     @Override
