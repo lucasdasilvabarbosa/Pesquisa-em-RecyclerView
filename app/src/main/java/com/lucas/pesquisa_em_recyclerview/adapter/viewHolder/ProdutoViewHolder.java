@@ -26,6 +26,7 @@ public class ProdutoViewHolder extends SortedListAdapter.ViewHolder<Produto>{
 
     @Override
     protected void performBind(@NonNull Produto produto) {
+
         mBinding.setModel(produto);
     }
 }
