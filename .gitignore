@@ -1,5 +1,4 @@
 *.iml
-.gradle
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
@@ -7,3 +6,16 @@
 /build
 /captures
 .externalNativeBuild
+.gradle/
+.idea/compiler.xml
+.idea/copyright/
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+app/libs/
+app/src/main/res/drawable/
+gradle.properties
+gradle/
+gradlew
+gradlew.bat
